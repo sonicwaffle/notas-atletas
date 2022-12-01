@@ -1,5 +1,5 @@
 Olá! Esse README.md serve para explicar o funcionamento do código notas-atletas.js.
-O código foi feito para concluir o curso de JavaScript da plataforma DEVstart.
+O código foi feito pelo aluno Pedro Guilherme Rosa Lutz para concluir o curso de JavaScript da plataforma DEVstart.
 
 O código começa com a definição da matriz de objetos instruída pela própria plataforma.
 Cada objeto dessa matriz contém o nome de um atleta e as notas que ele atingiu.
